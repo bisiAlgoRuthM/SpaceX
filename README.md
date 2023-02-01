@@ -6,4 +6,3 @@ Problems you want to find answers to:
 Determine the cost of each launch.
 Predict if the first stage of the Falcon 9 rockets will be recovered and reused.
 Determine the factors that influence the successful landing of launched Falcon 9 rocket.
-![image](https://user-images.githubusercontent.com/93517109/216141999-02f16cd2-b3bb-42f8-b67e-545b2273de11.png)
